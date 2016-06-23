@@ -1,5 +1,5 @@
 # Text-mining
-The materials and content were used for a session introducing text analysis and mining with tools that do not require programming knowledge or skills. The primary tools we used for pre-processing text, analysis, and visualization include <a href="http://lexos.wheatoncollege.edu/upload" target="_blank">Lexos</a> and <a href="http://voyant-tools.org/" target="_blank">Voyant</a>. 
+The materials and content were used for a session introducing text analysis and mining with tools that do not require specific programming skills. The primary tools we used for pre-processing text, analysis, and visualization include <a href="http://lexos.wheatoncollege.edu/upload" target="_blank">Lexos</a> and <a href="http://voyant-tools.org/" target="_blank">Voyant</a>. 
 
 ## Resources:
 * TextMiningIntro.pdf - slides with an overview of text mining and analysis, sample projects, and resources 
