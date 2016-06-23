@@ -18,7 +18,9 @@ For this session we used Anne Brönte’s novel, *Agnes Grey* (1847). This text 
     
   * manually or using scripts, remove all of the text that appears above "CHAPTER I" and all of the text that appears after the final sentence
 3. Navigate to <a href="http://lexos.wheatoncollege.edu/upload" target="_blank">Lexos</a>
-    
+        
+  ![lexos1](https://cloud.githubusercontent.com/assets/6841932/16316956/eba11d10-3956-11e6-8f90-22ffb32ac6f8.png)
+        
   * Upload the raw_agnesgrey.txt file
   * Under "Manage" - highlight text and click "select all"
 
@@ -68,6 +70,7 @@ For this session we used Anne Brönte’s novel, *Agnes Grey* (1847). This text 
         * select terms from dropdown/search menu
     * other visualizations are also available (click on ? in upper right corner)
 
+![voyant1](https://cloud.githubusercontent.com/assets/6841932/16317019/28bf6a6c-3957-11e6-9170-5febd585d0a6.png)
 
 
 
