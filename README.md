@@ -69,9 +69,11 @@ For this session we used Anne Brönte’s novel, *Agnes Grey* (1847). This text 
     * Contexts/Bubblelines (concordances)
         * frequent terms within context
         * select terms from dropdown/search menu
-    * other visualizations are also available (click on ? in upper right corner)
+    * other visualizations are also available (hover over the top ? in right corner for more options)
 
 ![voyant1](https://cloud.githubusercontent.com/assets/6841932/16317019/28bf6a6c-3957-11e6-9170-5febd585d0a6.png)
 
+4. Start to explore and analyze your texts! 
+5. You can generate a URL for the view (tools and data) or an HTML embed snippet
 
 
