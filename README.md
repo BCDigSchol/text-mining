@@ -22,16 +22,17 @@ For this session we used Anne Brönte’s novel, *Agnes Grey* (1847). This text 
   ![lexos1](https://cloud.githubusercontent.com/assets/6841932/16316956/eba11d10-3956-11e6-8f90-22ffb32ac6f8.png)
         
   * Upload the raw_agnesgrey.txt file
-  * Under "Manage" - highlight text and click "select all"
+  * Under "Manage" - choose "select"
+    * select text and choose "select all" 
 
-4. Under "Prepare" - select "scrub"
+4. Under "Prepare" - choose "scrub"
     
   * select scrubbing options
   * upload the en.txt stopwords file
   * preview and select "Apply Scrubbing" 
   * download scrubbed files
 
-5. Under "Prepare" - select "cut"
+5. Under "Prepare" - chose "cut"
     
   * select cutting options
   * use "cut by milestone" and input "chapter" as the term
